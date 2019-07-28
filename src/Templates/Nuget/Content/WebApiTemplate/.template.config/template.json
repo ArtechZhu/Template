@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Artech",
+  "classifications": [ "WebApi" ],
+  "name": "Custom WebApi",
+  "identity": "Custom WebApi",
+  "groupIdentity": "Custom WebApi",
+  "shortName": "CustomWebApi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template",
+  "preferNameDirectory": true
+}
