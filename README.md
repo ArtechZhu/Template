@@ -1,4 +1,4 @@
-博文（）源码：模板项目demo
+博文（https://blog.zhuliang.ltd/back-end/custom-template-using-dotnetcore/）源码：模板项目demo
 
 1. src文件夹中除了 Templates文件夹以外的项目文件夹均为源项目。
 2. Templates 文件夹中：
