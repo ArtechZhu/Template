@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Template.Application\Template.Application.csproj" />
+    <ProjectReference Include="..\Template.DomainService\Template.DomainService.csproj" />
+    <ProjectReference Include="..\Template.Domain\Template.Domain.csproj" />
+    <ProjectReference Include="..\Template.IApplication\Template.IApplication.csproj" />
+    <ProjectReference Include="..\Template.IDomainService\Template.IDomainService.csproj" />
+    <ProjectReference Include="..\Template.Infrastructure.CrossCutting\Template.Infrastructure.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

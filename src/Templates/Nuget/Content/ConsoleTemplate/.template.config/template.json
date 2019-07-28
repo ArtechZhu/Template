@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Artech",
+  "classifications": [ "Console" ],
+  "name": "SanbenTech Console",
+  "identity": "SanbenTech Console",
+  "groupIdentity": "SanbenTech Console",
+  "shortName": "SanbenConsole",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "SanbenTech.ResourceCenter",
+  "preferNameDirectory": true
+}
